@@ -3,8 +3,8 @@ layout: post
 title:  "Trans Richmond Trail"
 date:   2020-04-30 18:30:52 -0400
 img: transrhw.png
-categories: Hiking
-tags: Travel
+categories: York
+tags: Richmond_Hill
 ---
 
 ![Linux]({{site.baseurl}}/images/transrh.png)

@@ -3,8 +3,8 @@ layout: post
 title:  "Saigeon Trail"
 date:   2020-04-27 18:30:52 -0400
 img: saigeon.png
-categories: Hiking
-tags: Travel
+categories: "York"
+tags: "Richmond_Hill"
 ---
 
 ![Linux]({{site.baseurl}}/images/saigeon.png)

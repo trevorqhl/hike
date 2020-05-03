@@ -3,8 +3,8 @@ layout: post
 title:  "Richvale Greenway Trail"
 date:   2020-05-02 18:52:52 -0400
 img: richvale.png
-categories: Hiking
-tags: Travel
+categories: York
+tags: Richmond_Hill
 ---
 
 ![Linux]({{site.baseurl}}/images/richvale.png)

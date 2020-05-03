@@ -3,8 +3,8 @@ layout: post
 title:  "Don Valley Brick Works Park"
 date:   2020-05-02 18:52:52 -0400
 img: brick.png
-categories: Hiking
-tags: Travel
+categories: Toronto
+tags: Don_Valley
 ---
 
 ![Linux]({{site.baseurl}}/images/brick.png)

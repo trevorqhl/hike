@@ -3,8 +3,8 @@ layout: post
 title:  "Sheppard's Bush"
 date:   2020-04-26 13:30:52 -0400
 img: seneca.png
-categories: Hiking
-tags: Travel
+categories: York
+tags: Aurora
 ---
 
 ![Linux]({{site.baseurl}}/images/sheppard.png)

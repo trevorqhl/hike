@@ -2,8 +2,8 @@
 layout: post
 title:  "To do list"
 date:   2020-04-27 18:30:52 -0400
-categories: Hiking
-tags: Travel
+categories: Hike
+tags: Hike
 ---
 
 

@@ -3,8 +3,8 @@ layout: post
 title:  "Seneca College Trail at King"
 date:   2020-04-05 13:30:52 -0400
 img: seneca.png
-categories: Hiking
-tags: Travel
+categories: York
+tags: King
 ---
 
 ![Linux]({{site.baseurl}}/images/seneca.png)

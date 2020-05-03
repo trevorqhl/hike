@@ -3,8 +3,8 @@ layout: post
 title:  "Mill Pond Park Trail"
 date:   2020-05-01 18:52:52 -0400
 img: millpond.png
-categories: Hiking
-tags: Travel
+categories: York
+tags: Richmond_Hill
 ---
 
 ![Linux]({{site.baseurl}}/images/millpond.png)

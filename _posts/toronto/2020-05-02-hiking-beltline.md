@@ -3,8 +3,8 @@ layout: post
 title:  "Beltline Trail and Evengreen Brick Works"
 date:   2020-05-02 18:52:52 -0400
 img: beltline.png
-categories: Hiking
-tags: Travel
+categories: Toronto
+tags: Don_Valley
 ---
 
 ![Linux]({{site.baseurl}}/images/beltline.png)
