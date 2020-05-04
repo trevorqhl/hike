@@ -17,3 +17,18 @@ Trans Richmond Trail is a 3.7 kilometer lightly trafficked out and back trail. I
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/transrh2.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/transrh2.png)
+<br>
+<br>
+We found another route mostly inside the forest 
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/transrh3.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/transrh4.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/transrh5.jpg)
