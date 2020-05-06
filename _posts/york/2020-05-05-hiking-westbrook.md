@@ -10,7 +10,7 @@ tags: Richmond_Hill
 ![Linux]({{site.baseurl}}/images/westbrook.png)
 <br>
 <br>
-This route walks you through Trans Richmond Trail, William Harrison Park, Elgin West Greenway, and Larratt Lea Park, features the best part of our beautiful community of Westbrook. It is becoming my morning routine and takes about 50 minites.
+This route walks you through Trans Richmond Trail, William Harrison Park, Elgin West Greenway, and Larratt Lea Park, features the best part of our beautiful community in Westbrook. It is becoming my morning routine and takes about 1 hour.
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/westbrook1.jpg)
