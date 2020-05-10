@@ -20,8 +20,6 @@ Red Cardinal
 ![Linux]({{site.baseurl}}/images/redcardinal.png)
 East Humber
 ![Linux]({{site.baseurl}}/images/easthumber.png)
-Maple Nature 
-![Linux]({{site.baseurl}}/images/maplenature.png)
 Jefferson Forest
 ![Linux]({{site.baseurl}}/images/jefferson.png)
 
