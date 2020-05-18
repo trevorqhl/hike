@@ -14,12 +14,8 @@ Toogood Pond
 ![Linux]({{site.baseurl}}/images/toogood.png)
 German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
-Bethesad Jefferson
-![Linux]({{site.baseurl}}/images/bethesda.png)
 Red Cardinal
 ![Linux]({{site.baseurl}}/images/redcardinal.png)
-East Humber
-![Linux]({{site.baseurl}}/images/easthumber.png)
 Jefferson Forest
 ![Linux]({{site.baseurl}}/images/jefferson.png)
 
