@@ -16,8 +16,6 @@ German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
 Red Cardinal
 ![Linux]({{site.baseurl}}/images/redcardinal.png)
-Jefferson Forest
-![Linux]({{site.baseurl}}/images/jefferson.png)
 
 
 Countryside Preserve, Uxbridge, ON
