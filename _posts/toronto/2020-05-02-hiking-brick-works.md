@@ -10,7 +10,7 @@ tags: Don_Valley
 ![Linux]({{site.baseurl}}/images/brick.png)
 <br>
 <br>
-Also referred to as the Evergreen Brick Works,  a former quarry and industrial site making bricks, has been converted to a city park with trails, ponds & Toronto skyline views. It is a nice place to unwind when you want a change from city life.
+Also referred to as the Evergreen Brick Works, a former quarry and industrial site making bricks, has been converted to a city park with trails, ponds & Toronto skyline views. It is a nice place to unwind when you want a change from city life.
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/brick1.jpg)
