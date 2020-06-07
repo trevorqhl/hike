@@ -6,8 +6,6 @@ categories: Hike
 tags: Hike
 ---
 
-Milne Dam
-![Linux]({{site.baseurl}}/images/milnedam.png)
 Sugarbush
 ![Linux]({{site.baseurl}}/images/sugarbush.png)
 Toogood Pond
