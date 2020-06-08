@@ -8,8 +8,6 @@ tags: Hike
 
 Sugarbush
 ![Linux]({{site.baseurl}}/images/sugarbush.png)
-Toogood Pond
-![Linux]({{site.baseurl}}/images/toogood.png)
 German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
 Red Cardinal
