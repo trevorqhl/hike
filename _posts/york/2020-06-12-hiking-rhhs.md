@@ -31,13 +31,13 @@ Trans Richmond Trail is a 3.7 kilometer lightly trafficked out and back trail. T
 ![Linux]({{site.baseurl}}/images/rhhs6.jpg)
 <br>
 <br>
-The bike lane
+The very nice bike lane
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/rhhs2.png)
 <br>
 <br>
-There is a fully paved bike lane which can take you all the way to Bayview Avenue
+There is a fully paved bike lane which we took a week later all the way to Bayview Avenue
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/rhhs7.jpg)
