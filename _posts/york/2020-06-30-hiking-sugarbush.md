@@ -4,7 +4,7 @@ title: "Sugarbush Heritage Park Trail"
 date:   2020-06-30 18:30:52 -0400
 img: sugarbush.png
 categories: York
-tags: Richmond Hill
+tags: Vaughan
 ---
 
 ![Linux]({{site.baseurl}}/images/sugarbush.png)
