@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thames River in Downtown London"
-date:   2020-07-12 18:52:52 -0400
+date:   2020-07-12 15:00:00 -0400
 img: londonthames.png
 categories: Ontario
 tags: London
