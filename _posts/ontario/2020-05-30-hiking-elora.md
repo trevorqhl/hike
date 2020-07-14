@@ -3,7 +3,7 @@ layout: post
 title:  "Elora Gorge Trails"
 date:   2020-05-30 18:52:52 -0400
 img: elora.png
-categories: Waterloo
+categories: Ontario
 tags: Waterloo
 ---
 ![Linux]({{site.baseurl}}/images/elora.png)
