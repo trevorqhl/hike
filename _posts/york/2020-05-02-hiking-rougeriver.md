@@ -23,6 +23,3 @@ The tail is really good for biking in the summer. There are lots of sharp turns,
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/rougeriver3.jpg)
-<br>
-<br>
-![Linux]({{site.baseurl}}/images/rougeriver4.jpg)
