@@ -25,3 +25,6 @@ The Elora Gorge is one of the most beautiful and spectacular natural areas in th
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/elora5.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/elora2.png)
