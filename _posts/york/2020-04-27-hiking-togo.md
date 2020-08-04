@@ -14,11 +14,29 @@ Red Cardinal
 ![Linux]({{site.baseurl}}/images/redcardinal.png)
 
 
+Hoggs Falls + Eugenia Falls
+
 Countryside Preserve, Uxbridge, ON
 
 Secord Forest Oak Ridges Trail
 
-Moraine Park, richmond hill
+Limehouse Conservation Area
+
+Forks of the Credit Provincial Park
+
+Hilton Falls
+
+Mount Nemo Conservation Area
+
+Kelso/Glen Eden Conservation Area
+
+Dundas Valley Conservation Area
+
+Mono Cliffs Provincial Park
+
+Devils Punchbowl
+
+Lions Head Provincial Park
 
 Clarke Tract 
 
@@ -41,4 +59,6 @@ https://www.alltrails.com/explore/trail/canada/ontario/nashville-conservation-re
 Vicki Barron Lakeside Trail
 
 https://www.alltrails.com/explore/trail/canada/ontario/vicki-barron-lakeside-trail?ref=sidebar-static-map
+
+Thunder Bay + Eagle Canyon + Ouimet Canyon + Sleeping Giant + Amethyst Mine Panorama + 
 
