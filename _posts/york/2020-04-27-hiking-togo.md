@@ -26,11 +26,13 @@ Forks of the Credit Provincial Park
 
 Hilton Falls
 
-Mount Nemo Conservation Area
-
 Kelso/Glen Eden Conservation Area
 
 Dundas Valley Conservation Area
+
+Kerncliff Park, 2198 Kerns Rd, Burlington, ON L7P 1P8
+
+Smokey Hollow Waterfall, 80 Mill St S, Jerseyville, ON L0R 1R0
 
 Mono Cliffs Provincial Park
 
@@ -49,8 +51,6 @@ Mast Trail
 https://www.alltrails.com/explore/trail/canada/ontario/mast-trail?ref=sidebar-static-map
 
 Bob Hunter Memorial Park Loop (East of Markham)
-
-Sugarbrush Trail  (Thornhill)
 
 Nashville Conservation Reserve
 
