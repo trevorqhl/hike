@@ -6,8 +6,6 @@ categories: Hike
 tags: Hike
 ---
 
-Sugarbush
-![Linux]({{site.baseurl}}/images/sugarbush.png)
 German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
 Red Cardinal
@@ -15,6 +13,8 @@ Red Cardinal
 
 
 Hoggs Falls + Eugenia Falls
+
+Rattray Marsh Conservation Area
 
 Countryside Preserve, Uxbridge, ON
 
@@ -49,6 +49,8 @@ https://www.alltrails.com/explore/recording/clarke-tract-and-dainty-tract-york-r
 Mast Trail
 
 https://www.alltrails.com/explore/trail/canada/ontario/mast-trail?ref=sidebar-static-map
+
+East pioint + Guildwood park
 
 Bob Hunter Memorial Park Loop (East of Markham)
 
