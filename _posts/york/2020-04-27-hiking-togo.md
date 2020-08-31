@@ -12,8 +12,6 @@ Red Cardinal
 ![Linux]({{site.baseurl}}/images/redcardinal.png)
 
 
-Hoggs Falls + Eugenia Falls
-
 Rattray Marsh Conservation Area
 
 Countryside Preserve, Uxbridge, ON
@@ -30,6 +28,8 @@ Kelso/Glen Eden Conservation Area
 
 Dundas Valley Conservation Area
 
+Beamer Memorial Conservation Area
+
 Kerncliff Park, 2198 Kerns Rd, Burlington, ON L7P 1P8
 
 Smokey Hollow Waterfall, 80 Mill St S, Jerseyville, ON L0R 1R0
@@ -45,12 +45,6 @@ Clarke Tract
 Dainty Tract
 
 https://www.alltrails.com/explore/recording/clarke-tract-and-dainty-tract-york-regional-forest--2?u=m
-
-Mast Trail
-
-https://www.alltrails.com/explore/trail/canada/ontario/mast-trail?ref=sidebar-static-map
-
-East pioint + Guildwood park
 
 Bob Hunter Memorial Park Loop (East of Markham)
 
