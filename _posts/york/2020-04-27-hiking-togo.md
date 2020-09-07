@@ -16,7 +16,9 @@ Rattray Marsh Conservation Area
 
 Countryside Preserve, Uxbridge, ON
 
-Secord Forest Oak Ridges Trail
+Bruce's Caves Conservation Area
+
+Irish Mountain Scenic Lookout
 
 Limehouse Conservation Area
 
@@ -38,8 +40,6 @@ Mono Cliffs Provincial Park
 
 Devils Punchbowl
 
-Lions Head Provincial Park
-
 Clarke Tract 
 
 Dainty Tract
@@ -58,3 +58,6 @@ https://www.alltrails.com/explore/trail/canada/ontario/vicki-barron-lakeside-tra
 
 Thunder Bay + Eagle Canyon + Ouimet Canyon + Sleeping Giant + Amethyst Mine Panorama + 
 
+The Crack at Killarney Provincial Park, A.Y. Jackson Lookout
+
+Eagle’s Nest Lookout (Ottawa)
