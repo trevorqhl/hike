@@ -8,9 +8,6 @@ tags: Hike
 
 German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
-Red Cardinal
-![Linux]({{site.baseurl}}/images/redcardinal.png)
-
 
 Rattray Marsh Conservation Area
 
