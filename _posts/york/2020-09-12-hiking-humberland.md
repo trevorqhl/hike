@@ -10,7 +10,7 @@ tags: Richmond_Hill
 ![Linux]({{site.baseurl}}/images/humberland.png)
 <br>
 <br>
-it is a very nice trail for 40 mintue hike around the Humberland community. 
+It is a very nice trail for 40 mintue hike around the Humberland community. 
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/humberland1.jpg)
@@ -31,10 +31,3 @@ it is a very nice trail for 40 mintue hike around the Humberland community.
 ![Linux]({{site.baseurl}}/images/humberland6.jpg)
 <br>
 <br>
-![Linux]({{site.baseurl}}/images/humberland7.jpg)
-<br>
-<br>
-![Linux]({{site.baseurl}}/images/humberland8.jpg)
-<br>
-<br>
-![Linux]({{site.baseurl}}/images/humberland9.jpg)
