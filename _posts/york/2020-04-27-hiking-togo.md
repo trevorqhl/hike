@@ -9,6 +9,10 @@ tags: Hike
 German Mills
 ![Linux]({{site.baseurl}}/images/germanmills.png)
 
+Joker’s Hill Trail/ Thornton Bales Conservation Area
+
+Lynde Shores Conservation Area
+
 Rattray Marsh Conservation Area
 
 Countryside Preserve, Uxbridge, ON
@@ -48,10 +52,6 @@ Bob Hunter Memorial Park Loop (East of Markham)
 Nashville Conservation Reserve
 
 https://www.alltrails.com/explore/trail/canada/ontario/nashville-conservation-reserve?ref=sidebar-static-map
-
-Vicki Barron Lakeside Trail
-
-https://www.alltrails.com/explore/trail/canada/ontario/vicki-barron-lakeside-trail?ref=sidebar-static-map
 
 Thunder Bay + Eagle Canyon + Ouimet Canyon + Sleeping Giant + Amethyst Mine Panorama + 
 
