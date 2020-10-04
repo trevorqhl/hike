@@ -14,3 +14,6 @@ Elgin West Greenway Trail walks you through Twickenham Park to Elgin West Commun
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/elginwest1.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/elginwest2.jpg)

@@ -20,3 +20,12 @@ One of the best part of Humber river recreational trail starting from James Gard
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/jamesgardens3.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/jamesgardens4.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/jamesgardens5.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/jamesgardens6.jpg)

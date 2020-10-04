@@ -11,7 +11,27 @@ German Mills
 
 Joker’s Hill Trail/ Thornton Bales Conservation Area
 
+Rogers Reservoir 
+
+Aurora Arboretum
+
+Happy Valley
+
+Greenwood Conservation Area
+
+Huckleberry Rock, Muskoka
+
+Maple tree at Indian’s Landing in Port Sydney, Muskoka
+
+Big Bend Lookout - Arrowhead Provincial Park
+
+Oxtongue River-Ragged Falls Provincial Park
+
+Old Baldy Conservation Area
+
 Lynde Shores Conservation Area
+
+Hidden Trail
 
 Rattray Marsh Conservation Area
 

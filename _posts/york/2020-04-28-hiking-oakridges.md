@@ -20,3 +20,6 @@ There are lots options to hike the Oak Ridges Trail, we like to start from Old C
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/oakridges3.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/oakridges4.jpg)

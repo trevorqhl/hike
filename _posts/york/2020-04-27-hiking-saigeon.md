@@ -18,3 +18,9 @@ Don't forget to stop by the pond at the north east and enjoy a few conversations
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/saigeon2.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/saigeon3.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/saigeon4.jpg)

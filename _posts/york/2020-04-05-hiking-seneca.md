@@ -19,3 +19,15 @@ and overlooking Lake Seneca. The hike is about one hour around the Lake.
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/seneca2.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/seneca3.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/seneca4.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/seneca5.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/seneca6.jpg)
