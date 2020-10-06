@@ -7,9 +7,6 @@ tags: Hike
 ---
 
 German Mills
-![Linux]({{site.baseurl}}/images/germanmills.png)
-
-Joker’s Hill Trail/ Thornton Bales Conservation Area
 
 Rogers Reservoir 
 
