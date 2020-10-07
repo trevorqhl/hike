@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "To do list"
-date:   2020-04-27 18:30:52 -0400
+title:  "Upcoming Hikes"
+date:   2020-05-01 18:30:52 -0400
 categories: Hike
 tags: Hike
 ---
