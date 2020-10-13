@@ -10,8 +10,6 @@ German Mills
 
 Rogers Reservoir 
 
-Aurora Arboretum
-
 Happy Valley
 
 Greenwood Conservation Area
@@ -47,8 +45,6 @@ Hilton Falls
 Kelso/Glen Eden Conservation Area
 
 Dundas Valley Conservation Area
-
-Beamer Memorial Conservation Area
 
 Kerncliff Park, 2198 Kerns Rd, Burlington, ON L7P 1P8
 

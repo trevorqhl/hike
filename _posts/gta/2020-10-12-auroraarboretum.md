@@ -10,7 +10,7 @@ tags: GTA
 ![Linux]({{site.baseurl}}/images/auroraarboretum.png)
 <br>
 <br>
-Aurora Community Arboretum is a lovely place walk, to enjoy the nature in a coummunity contributed Arboretum and learn different names and species trees and plants.
+Aurora Community Arboretum is a lovely place to walk, to enjoy the nature in a coummunity contributed Arboretum and learn different names and species of trees and plants.
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/auroraarboretum1.jpg)

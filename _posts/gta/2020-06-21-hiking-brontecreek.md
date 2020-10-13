@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creek Bronte Creek Provincial Park"
+title:  "Bronte Creek Provincial Park"
 date:   2020-06-21 18:52:52 -0400
 img: brontecreek.png
 categories: GTA
