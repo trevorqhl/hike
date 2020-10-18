@@ -18,6 +18,8 @@ Huckleberry Rock, Muskoka
 
 Maple tree at Indian’s Landing in Port Sydney, Muskoka
 
+Doube's trestle bridge
+
 Big Bend Lookout - Arrowhead Provincial Park
 
 Oxtongue River-Ragged Falls Provincial Park
