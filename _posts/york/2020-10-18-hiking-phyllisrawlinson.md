@@ -10,7 +10,7 @@ tags: Richmond Hill
 ![Linux]({{site.baseurl}}/images/phyllisrawlinson.png)
 <br>
 <br>
-Located at Leslie St and 19th Ave, the trail at Phyllis Rawlinson Park is about 30 minute long but very nice to walk in nature. The property was left to Richmond Hill by Phyllis Rawlinson in her will on the condition of that it was to be managed for conservation purposes. The city has done a good job to honor her will. 
+Located at Leslie St and 19th Ave, the trail at Phyllis Rawlinson Park is about 30 minute long but very nice to walk in nature. The land was left to Richmond Hill by Phyllis Rawlinson in her will on the condition of that it was to be managed for conservation purposes. The city has done a good job to honor her will. 
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/phyllisrawlinson1.jpg)

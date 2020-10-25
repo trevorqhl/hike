@@ -10,8 +10,6 @@ German Mills
 
 Rogers Reservoir 
 
-Happy Valley
-
 Greenwood Conservation Area
 
 Huckleberry Rock, Muskoka
@@ -29,6 +27,10 @@ Old Baldy Conservation Area
 Lynde Shores Conservation Area
 
 Hidden Trail
+
+Upper Whirlpool Trails
+
+Queenston Heights Redan
 
 Rattray Marsh Conservation Area
 
