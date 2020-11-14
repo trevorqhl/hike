@@ -8,8 +8,6 @@ tags: Hike
 
 German Mills
 
-Rogers Reservoir 
-
 Greenwood Conservation Area
 
 Huckleberry Rock, Muskoka
@@ -58,11 +56,7 @@ Mono Cliffs Provincial Park
 
 Devils Punchbowl
 
-Clarke Tract 
-
-Dainty Tract
-
-https://www.alltrails.com/explore/recording/clarke-tract-and-dainty-tract-york-regional-forest--2?u=m
+Eldred King Woodlands
 
 Bob Hunter Memorial Park Loop (East of Markham)
 
