@@ -30,8 +30,6 @@ Upper Whirlpool Trails
 
 Queenston Heights Redan
 
-Rattray Marsh Conservation Area
-
 Countryside Preserve, Uxbridge, ON
 
 Bruce's Caves Conservation Area
