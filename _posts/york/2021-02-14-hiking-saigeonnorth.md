@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "North Saigeon Tail in Midwinter"
+title:  "North Saigeon Trail in Midwinter"
 date:   2021-02-14 15:30:00 -0400
 img: northsaigeon.png
 categories: York
@@ -10,7 +10,7 @@ tags: Richmond_Hill
 ![Linux]({{site.baseurl}}/images/northsaigeon.png)
 <br>
 <br>
-Happy walk in the north side of Saigeon Tail in Midwinter
+Happy walk in the north side of Saigeon Trail in midwinter
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/northsaigeon1.jpg)
