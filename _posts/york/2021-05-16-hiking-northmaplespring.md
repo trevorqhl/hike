@@ -10,7 +10,7 @@ tags: Vaughan
 ![Linux]({{site.baseurl}}/images/northmaplespring.png)
 <br>
 <br>
-There are a lot to explore in North Maple Forest. The Jewel in the Crown is the beautiful pond inside the frest with clean water and fish just like an aquarium
+There are a lot to explore in North Maple Forest. The Jewel in the Crown is the beautiful pond inside the forest with clean water and fish just like an aquarium
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/northmaplespring1.jpg)
