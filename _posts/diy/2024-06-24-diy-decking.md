@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Beamer Memorial Conservation Area"
-date:   2020-10-11 18:52:52 -0400
+title:  "Rebuilding An Old Deck"
+date:   2024-06-24 18:52:52 -0400
 img: beamer.png
-categories: GTA
-tags: GTA
+categories: DYI
+tags: DYI
 ---
 
 ![Linux]({{site.baseurl}}/images/beamer.png)
