@@ -7,34 +7,44 @@ categories: DYI
 tags: DYI
 ---
 
-![Linux]({{site.baseurl}}/images/beamer.png)
 <br>
+I have been thinking about rebuilding my rotting deck for a while, and finally this is the time I decide to do it.
 <br>
-Beamer Memorial Conservation Area is just another amazing place to hike from the Niagara Escarpment in Grimsby. In a good day, you can see clearly the beatiful skyline of Toronto from cross Lake Ontario. While we enjoyed the fall foliage, the waterfalls has gone dry in fall down the hill. The best time to see the waterfalls would be spring.
+![Linux]({{site.baseurl}}/images/deck01.jpg)
 <br>
+The draining suroudning the deck has been a problem every spring. So I plan to make gravel pathway around it.
+![Linux]({{site.baseurl}}/images/deck02.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer1.jpg)
+![Linux]({{site.baseurl}}/images/deck03.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck04.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer2.jpg)
+![Linux]({{site.baseurl}}/images/deck05.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck06.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer3.jpg)
+![Linux]({{site.baseurl}}/images/deck07.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck08.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer4.jpg)
+![Linux]({{site.baseurl}}/images/deck09.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck10.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer5.jpg)
+![Linux]({{site.baseurl}}/images/deck11.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck12.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer6.jpg)
+![Linux]({{site.baseurl}}/images/deck13.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck14.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer7.jpg)
+![Linux]({{site.baseurl}}/images/deck15.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck16.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer8.jpg)
+![Linux]({{site.baseurl}}/images/deck17.jpg)
 <br>
+![Linux]({{site.baseurl}}/images/deck18.jpg)
 <br>
-![Linux]({{site.baseurl}}/images/beamer9.jpg)
+![Linux]({{site.baseurl}}/images/deck19.jpg)
