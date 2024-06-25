@@ -8,7 +8,7 @@ tags: DYI
 ---
 
 <br>
-We have been talking about rebuilding the rotting deck year after year. Fortounately in the spring of 2024, with the help from my growing up children, we finally started the project.
+We have been talking about rebuilding the rotting deck year after year. Fortounately in the spring of 2024, with the help from my growing up children, we finally started the project. The rebulding tasks are removing the old deck boards and replaced with composite boards, keeping the frame with an fresh coat of stain, constructing a gravel pathway around the deck, building two raised garden beds, a fire pit, a bench, and a patio umbralla base on the side. 
 <br>
 ![Linux]({{site.baseurl}}/images/deck01.jpg)
 <br>
@@ -47,7 +47,7 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck10.jpg)
 <br>
 <br>
-<b>May 22</b> We covered the deck to prevent rains until we added the Resisto Joist Guard from Home Depot to protect the frame from moisture
+<b>May 22</b> We covered the deck frame until we added the Resisto Joist Guard from Home Depot to protect the frame from moisture
 <br>
 ![Linux]({{site.baseurl}}/images/deck11.jpg)
 <br>
