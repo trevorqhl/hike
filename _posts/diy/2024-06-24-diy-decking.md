@@ -8,7 +8,7 @@ tags: DYI
 ---
 
 <br>
-We have been talking about rebuilding the rotting deck year after year. Fortounately in the spring of 2024, with the help from my growing up children, we finally started the project. The blue print is removing the old deck boards and replaced with composite boards, keeping the frame with an fresh coat of stain, constructing a gravel pathway around the deck, building two raised garden beds, a fire pit, a bench, and a patio umbralla base on the side. 
+We have been talking about rebuilding the rotting deck year after year. Fortounately in the spring of 2024, with the help from my growing up children, we finally started the project. The blueprint starts with removing the old deck boards, keeping the frame with a fresh coat of stain, constructing a gravel pathway around the deck, building two raised garden beds, a fire pit, a bench, and a base for the patio umbrella on the side, and finally installing the new composite deck boards with consideration of adding bench on the deck. 
 <br>
 ![Linux]({{site.baseurl}}/images/deck01.jpg)
 <br>
