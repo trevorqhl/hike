@@ -13,7 +13,7 @@ We have been talking about rebuilding the rotting deck year after year. Fortouna
 ![Linux]({{site.baseurl}}/images/deck01.jpg)
 <br>
 <br>
-<b>April 26<b> The draining surrounding the deck has been a problem every spring, we decided to replacd the lawn with a gravel pathway.
+<b>April 26</b> The draining surrounding the deck has been a problem every spring, we decided to replacd the lawn with a gravel pathway.
 We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edgy was inspecting the completed edge of the pathway.
 <br>
 ![Linux]({{site.baseurl}}/images/deck02.jpg)
@@ -25,7 +25,7 @@ We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edg
 ![Linux]({{site.baseurl}}/images/deck07.jpg)
 <br>
 <br>
-May 11, we started taking out the rails mainly with a reciprocating saw.
+<b>May 11</b> We took out the rails mainly by a reciprocating saw.
 <br>
 ![Linux]({{site.baseurl}}/images/deck04.jpg)
 <br>
