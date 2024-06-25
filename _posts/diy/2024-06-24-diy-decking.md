@@ -25,7 +25,7 @@ We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edg
 ![Linux]({{site.baseurl}}/images/deck07.jpg)
 <br>
 <br>
-<b>May 11</b> We took out the rails mainly by a reciprocating saw.
+<b>May 11</b> We removed the rails using a reciprocating saw.
 <br>
 ![Linux]({{site.baseurl}}/images/deck04.jpg)
 <br>
@@ -36,7 +36,7 @@ We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edg
 ![Linux]({{site.baseurl}}/images/deck06.jpg)
 <br>
 <br>
-May 18, the old deck boards were secured to the frame by nails. We tried different ways to take them out. The best way for us is to use a circular saw to cut the boards along the frame, and then place the reciprocating saw in between to cut the rails.  
+<b>May 18</b> The old deck boards were secured to the frame by nails. We tried different ways to take them out. The best way turned out to be using a circular saw to cut the boards along the frame, and then placing the reciprocating saw in between to cut the nails.  
 <br>
 ![Linux]({{site.baseurl}}/images/deck08.jpg)
 <br>
@@ -47,7 +47,7 @@ May 18, the old deck boards were secured to the frame by nails. We tried differe
 ![Linux]({{site.baseurl}}/images/deck10.jpg)
 <br>
 <br>
-May 22, we covered the deck to prevent rains until we added the Resisto Joist Guard from Home Depot.
+<b>May 22</b> We covered the deck to prevent rains until we added the Resisto Joist Guard from Home Depot to protect the frame from moisture
 <br>
 ![Linux]({{site.baseurl}}/images/deck11.jpg)
 <br>
@@ -55,7 +55,7 @@ May 22, we covered the deck to prevent rains until we added the Resisto Joist Gu
 ![Linux]({{site.baseurl}}/images/deck14.jpg)
 <br>
 <br>
-June 6, we rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision, the tiller also loosen the soil and we had to a manual tamper compact and level the soil.
+<b>June 6</b> We rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision because the tiller could loosen the soil. We had to a manual tamper compact and level the soil.
 <br>
 ![Linux]({{site.baseurl}}/images/deck12.jpg)
 <br>
@@ -66,7 +66,7 @@ June 6, we rent a tiller from Home Depot to reomve the lawn for the pathway. It 
 ![Linux]({{site.baseurl}}/images/deck19.jpg)
 <br>
 <br>
-June 23, we used 4 concret deck block to built the base for a 11 feet umbrella from Home Depot.
+<b>June 23</b> We used 4 x concret deck blocks from Home Deport to built the base for a 11 feet patio umbrella. 
 <br>
 ![Linux]({{site.baseurl}}/images/deck15.jpg)
 <br>
@@ -74,7 +74,7 @@ June 23, we used 4 concret deck block to built the base for a 11 feet umbrella f
 ![Linux]({{site.baseurl}}/images/deck16.jpg)
 <br>
 <br>
-June 24, we layout the raised garden beds, a fire pit, and a bench
+<b>June 24</b>I started taking 2 weeks off from work to get more work done. We laid out the raised garden beds, a fire pit, and a bench on the right side of the deck.
 <br>
 ![Linux]({{site.baseurl}}/images/deck17.jpg)
 <br>
@@ -82,7 +82,7 @@ June 24, we layout the raised garden beds, a fire pit, and a bench
 ![Linux]({{site.baseurl}}/images/deck18.jpg)
 <br>
 <br>
-June 25, we secured the raised garden beds, built the solid bases for fire pit and bench
+<b>June 25</b> We secured the raised garden beds, built the solid bases for fire pit and bench
 <br>
 ![Linux]({{site.baseurl}}/images/deck20.jpg)
 <br>
