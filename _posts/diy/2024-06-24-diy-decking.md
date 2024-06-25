@@ -8,17 +8,16 @@ tags: DYI
 ---
 
 <br>
-We have been thinking about rebuilding my rotting deck for a while. Fortounately this year, with the help from my growning up children, we finally started the project.
+We have been talking about rebuilding the rotting deck year after year. Fortounately in the spring of 2024, with the help from my growing up children, we finally started the project.
 <br>
 ![Linux]({{site.baseurl}}/images/deck01.jpg)
 <br>
 <br>
-April 26, the draining surrounding the deck has been a problem every spring, we decided to replacd the grass with a gravel pathway.
+<b>April 26<b> The draining surrounding the deck has been a problem every spring, we decided to replacd the lawn with a gravel pathway.
+We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edgy was inspecting the completed edge of the pathway.
 <br>
 ![Linux]({{site.baseurl}}/images/deck02.jpg)
 <br>
-<br>
-We use 5x9 inch mini beltis garden wall brick from Rona for the edge. My cat Edgy was inspecting the completed edge of the pathway.
 <br>
 ![Linux]({{site.baseurl}}/images/deck03.jpg)
 <br>
