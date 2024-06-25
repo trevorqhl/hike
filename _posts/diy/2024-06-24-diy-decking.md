@@ -55,7 +55,7 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck14.jpg)
 <br>
 <br>
-<b>June 6</b> We rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision because the tiller could loosen the soil. We had to a manual tamper compact and level the soil.
+<b>June 6</b> We rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision because the tiller could loosen the soil. The compactor is too heavy to carry home so We used a manual tamper to compact and level the soil.
 <br>
 ![Linux]({{site.baseurl}}/images/deck12.jpg)
 <br>
@@ -66,7 +66,7 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck19.jpg)
 <br>
 <br>
-<b>June 23</b> We used 4 x concret deck blocks from Home Deport to built the base for a 11 feet patio umbrella. 
+<b>June 23</b> We used 4 x concret deck blocks from Home Deport to built the base for a 11 ft patio umbrella. 
 <br>
 ![Linux]({{site.baseurl}}/images/deck15.jpg)
 <br>
@@ -74,7 +74,7 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck16.jpg)
 <br>
 <br>
-<b>June 24</b>I started taking 2 weeks off from work to get more work done. We laid out the raised garden beds, a fire pit, and a bench on the right side of the deck.
+<b>June 24</b> I started taking 2 weeks off from work to get more work done before the summer is over. We laid out the raised garden beds, a fire pit, and a bench on the right side of the deck.
 <br>
 ![Linux]({{site.baseurl}}/images/deck17.jpg)
 <br>
