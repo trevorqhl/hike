@@ -55,7 +55,7 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck14.jpg)
 <br>
 <br>
-<b>June 6</b> We rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision because the tiller could loosen the soil. The compactor is too heavy to carry home so We used a manual tamper to compact and level the soil.
+<b>June 6</b> We rent a tiller from Home Depot to reomve the lawn for the pathway. It was probably not the best decision because the tiller could loosen the soil. The rental compactor is too heavy to carry home so we used a manual tamper to compact and level the soil.
 <br>
 ![Linux]({{site.baseurl}}/images/deck12.jpg)
 <br>
