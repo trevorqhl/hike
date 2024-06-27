@@ -91,3 +91,19 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 <br>
 <br>
 ![Linux]({{site.baseurl}}/images/deck22.jpg)
+<b>June 26</b> We framed the apple tree and pear tree and integrated into the pathway edge
+<br>
+![Linux]({{site.baseurl}}/images/deck23.jpg)
+<br>
+<br>
+<b>June 27</b> We drew a template that used to layout stepping stones, and then used gravel for the base to install Oldcastle Kendo Stepping Stone from Home Depot 
+<br>
+![Linux]({{site.baseurl}}/images/deck24.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck25.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck26.jpg)
+<br>
+<br>
