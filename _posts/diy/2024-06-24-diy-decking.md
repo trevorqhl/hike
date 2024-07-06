@@ -109,3 +109,57 @@ We use 5x9 inch mini beltis garden wall bricks from Rona for the edge. My cat Ed
 ![Linux]({{site.baseurl}}/images/deck26.jpg)
 <br>
 <br>
+![Linux]({{site.baseurl}}/images/deck27.jpg)
+<br>
+<br>
+<b>June 28</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck28.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck29.jpg)
+<br>
+<br>
+<b>June 30</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck30.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck31.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck32.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck33.jpg)
+<br>
+<br>
+<b>July 1</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck34.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck35.jpg)
+<br>
+<br>
+<b>July 3</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck36.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck37.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck38.jpg)
+<br>
+<b>July 4</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck39.jpg)
+<br>
+<br>
+![Linux]({{site.baseurl}}/images/deck40.jpg)
+<br>
+<b>July 5</b>
+<br>
+![Linux]({{site.baseurl}}/images/deck41.jpg)
+<br>
